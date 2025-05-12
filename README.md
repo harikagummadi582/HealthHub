@@ -1,4 +1,4 @@
-# HealthHub - Your Complete Health and Wellness Platform
+# HealthHub - Health and Wellness Platform
 
 HealthHub is a comprehensive health management platform that helps users track their fitness, nutrition, and overall wellness goals. The application provides personalized diet recommendations, calorie tracking, and health management features through a modern, user-friendly interface.
 
